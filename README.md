@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on SSAFY!
 - 📫 How to reach me : contact instagram @\_strong.\_.minsu
-##### major : mathematics, Artificial intelligence
+##### Major : Mathematics, Artificial intelligence
 
 ##### 
