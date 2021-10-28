@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on SSAFY!
+- 🔭 I’m currently studying on SSAFY!
 - 📫 How to reach me : contact instagram @\_strong.\_.minsu
 ##### Major : Mathematics, Artificial intelligence
 
