@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me : contact instagram @\_strong.\_.minsu
 ##### Major : Mathematics, Artificial intelligence
 
-##### Current Current studying : Django
+##### Current Current studying : Django, Javascript
