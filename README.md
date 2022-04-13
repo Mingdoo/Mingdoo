@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently studying on SSAFY!
-- 📫 How to reach me : contact instagram @\_strong.\_.minsu
-##### Major : Mathematics, Artificial intelligence
+- 📫 How to reach me : contact instagram @\_strong.\_.minsu or [Email](mailto:alonemint@gmail.com)
+##### Major : Mathematics
 
 ##### Current Current studying : TypeScript, React-Native
 
