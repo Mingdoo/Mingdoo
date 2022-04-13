@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently studying on SSAFY!
-- 📫 How to reach me : contact instagram (@devMandu)[https://www.instagram.com/devmandu/] or [alonemint@gmail.com](mailto:alonemint@gmail.com)
+- 📫 How to reach me : contact instagram [@_strong._.minsu](https://www.instagram.com/_strong._.minsu/) or [alonemint@gmail.com](mailto:alonemint@gmail.com)
 ##### Major : Mathematics
 
 ##### Current Current studying : TypeScript, React-Native
