@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying on SSAFY!
 - 📫 How to reach me : contact instagram [@__strong._.minsu](https://www.instagram.com/_strong._.minsu/) or [alonemint@gmail.com](mailto:alonemint@gmail.com)
+- 😄 Portfolio: [Link](https://hulking-manager-4ef.notion.site/DevMandu-dbbe826b940a4eb89691ed3aae22befb)
 ##### Major : Mathematics
 
 ##### Current Current studying : Babel, webpack
