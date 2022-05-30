@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me : contact instagram [@__strong._.minsu](https://www.instagram.com/_strong._.minsu/) or [alonemint@gmail.com](mailto:alonemint@gmail.com)
 ##### Major : Mathematics
 
-##### Current Current studying : TypeScript, React-Native
+##### Current Current studying : Babel, webpack
 
 ##### Tech Stacks
 <div align=start>
