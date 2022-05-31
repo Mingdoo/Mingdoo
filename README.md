@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently studying on SSAFY!
+- 🔭 I’m currently studying by Google❤!
 - 📫 How to reach me : contact instagram [@__strong._.minsu](https://www.instagram.com/_strong._.minsu/) or [alonemint@gmail.com](mailto:alonemint@gmail.com)
 - 😄 Portfolio: [Link](https://hulking-manager-4ef.notion.site/DevMandu-dbbe826b940a4eb89691ed3aae22befb)
 ##### Major : Mathematics
