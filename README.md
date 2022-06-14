@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ##### Language
 <div>
-  <marquee>aaa</marquee>
+  <marquee width="100px">marqee width="100px" 입니다.</marquee>
 </div>
 <div align=start>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
