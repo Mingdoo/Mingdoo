@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 #### Tech Stacks
 
+/*
 ##### Language
 <div align=start>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -64,3 +65,4 @@ Here are some ideas to get you started:
 </br>
 </br>
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmingdoo%2Fhit-counter&count_bg=%23FFFFFF&title_bg=%23318A3E&icon=react.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+*/
