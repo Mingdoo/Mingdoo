@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying by Google❤!
 - 📫 How to reach me : contact instagram [@__strong._.minsu](https://www.instagram.com/_strong._.minsu/) or [alonemint@gmail.com](mailto:alonemint@gmail.com)
-- 😄 Portfolio: [여기를 클릭하세요](https://hulking-manager-4ef.notion.site/DevMandu-dbbe826b940a4eb89691ed3aae22befb)
 ##### Major : Mathematics
 
-##### Current Current studying : Javascript core
+##### Current Current studying : kubernetes
 
 #### Tech Stacks
 
